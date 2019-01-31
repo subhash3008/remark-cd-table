@@ -1,0 +1,8 @@
+.menu-link {
+    transition: 0.5s;
+}
+
+.menu-link:hover {
+    background-color: #8395a7;
+    padding: 0.55em 0.55em;
+}
